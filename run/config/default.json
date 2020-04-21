@@ -1,0 +1,7 @@
+{
+  "data": {
+      "input": "/data/input",
+      "output": "data/output"
+  }
+
+}

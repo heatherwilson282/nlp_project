@@ -15,7 +15,12 @@ setup(
     package_dir={'': 'src'},
     include_package_data=True,
     install_requires=[
-    'configparser'],
+        'configparser',
+        'matplotlib',
+        'numpy',
+        'pandas',
+        'scikit-learn',
+        'seaborn'],
     python_requires='>=3.6',
     zip_safe=False
 )

@@ -1,5 +1,11 @@
+# MAC related
+.DS_store
+
 # pycharm related
 .idea
+
+# project related
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
