@@ -1,7 +1,7 @@
 {
+  "path": "Documents/Code/nlp_project",
   "data": {
-      "input": "/data/input",
+      "input": "data/input",
       "output": "data/output"
   }
-
 }

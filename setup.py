@@ -20,7 +20,8 @@ setup(
         'numpy',
         'pandas',
         'scikit-learn',
-        'seaborn'],
+        'seaborn',
+        'black'],
     python_requires='>=3.6',
     zip_safe=False
 )
