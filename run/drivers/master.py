@@ -14,8 +14,4 @@ if __name__ == "__main__":
 
     df_metadata = pd.read_csv(os.path.join(data_path, 'ted_main.csv'))
 
-    print(
-        f"There are {len(df_metadata)} talks, with {df_metadata.duplicated('title').sum()} duplicate titles, and {df_metadata.duplicated('main_speaker').sum()} speakers that have more than one talk."
-    )
-
     df_transcripts = pd.read_csv(data_path, 'transcripts.csv')

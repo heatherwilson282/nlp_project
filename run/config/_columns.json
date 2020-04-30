@@ -1,0 +1,21 @@
+{
+  "metadata_cols": {
+    "comments": "comments",
+    "description": "description",
+    "duration": "duration",
+    "event": "event",
+    "film_date": "film_date",
+    "languages": "languages",
+    "main_speaker": "main_speaker",
+    "name": "name",
+    "num_speaker": "num_speaker",
+    "published_date": "published_date",
+    "ratings": "ratings",
+    "related_talks": "related_talks",
+    "speaker_occupation": "speaker_occupation",
+    "tags": "tags",
+    "title": "title",
+    "url": "url",
+    "views": "views"
+  }
+}
