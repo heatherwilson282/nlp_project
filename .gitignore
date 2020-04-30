@@ -1,3 +1,6 @@
+# exclude data folder
+data/
+
 # pycharm related
 .idea
 
